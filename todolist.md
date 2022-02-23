@@ -8,3 +8,5 @@
 6. breaktime
 7. dinner
 8. sleep
+9. wake up again next am
+10. a brand new day starts again
